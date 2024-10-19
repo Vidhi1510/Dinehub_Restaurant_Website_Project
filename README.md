@@ -7,7 +7,7 @@ The **Restaurant Website** was designed to elevate the online presence of restau
 
 ### 🌟 Special Thanks
 - **Hirenkumar V. Mer** – A heartfelt thanks to our mentor, whose guidance and expertise were instrumental in shaping this project into what it is today.
-- **Vidhi Patel** – A huge shoutout to our talented team member, Vidhi, whose creativity and dedication brought life to every pixel and line of code in this project.
+- **Vedant Patel** – A huge shoutout to our talented team member, Vedant, whose creativity and dedication brought life to every pixel and line of code in this project.
 
 ## 🚀 Key Features
 - **Interactive Menu**: Browse the full menu with detailed descriptions and prices.
